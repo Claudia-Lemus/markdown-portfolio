@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+#### These are attributes that I consider important to have as a professional, and I try to be better at them within my daily work.
+I consider that I have a good _adaptability_ when there are changes in the environment or conditions, and also to treat different kinds of people. I think I'm **responsible** and have a good sense of **leadership** when it's required. Other skills I identify in myself are _**determination, teamwork**_ and _**proactivity**_.
